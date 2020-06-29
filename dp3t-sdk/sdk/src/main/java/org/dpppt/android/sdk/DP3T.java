@@ -50,7 +50,7 @@ import static org.dpppt.android.sdk.internal.util.Base64Util.toBase64;
 
 public class DP3T {
 
-	private static final String TAG = "DP3T Interface";
+	private static final String TAG = "DP3T Interface N";
 
 	public static final String UPDATE_INTENT_ACTION = "org.dpppt.android.sdk.UPDATE_ACTION";
 
